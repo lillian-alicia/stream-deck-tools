@@ -56,3 +56,10 @@ Change the page (`21` in this example) and button (`21/2/4`), by replacing the `
 
 - Re-write the "Main Clock" trigger to support a third input (and potentially more), to allow for more data to be displayed.
 - Add another trigger I've written, which allows for the creation of a Shift key, where the function and appearance of a button can be changed whist holding any "Shift" key.
+
+## Sources
+
+- TheatreMix Icons - [Bitfocus Companion Integration (GitHub).](https://github.com/bitfocus/companion-module-mixtech-theatremix/)
+
+- QLab Icons - [QLab Cookbook.](https://qlab.app/cookbook/downloads/qlab-icons-v5.zip)
+  https://qlab.app/cookbook/button-button-whos-got-the-button/
